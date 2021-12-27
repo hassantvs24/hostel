@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="709ac2c5-d895-43e0-b2e6-56d29b053061" name="Hostel" url="http://mi3-ss35.a2hosting.com">
+        <fileTransfer host="mi3-ss35.a2hosting.com" port="21" rootFolder="/cityhostelsyl.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
